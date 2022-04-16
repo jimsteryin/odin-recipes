@@ -1,0 +1,19 @@
+.pics{
+    height: 400px;
+    width: auto;
+}
+
+.steps{
+    font-size: 12px;
+    background-color: green;
+    color: red;
+}
+
+.ingredients{
+    font-size: 14px;
+    text-align: right;
+}
+
+.items{
+    font-size: large;
+}
